@@ -9,7 +9,7 @@ The project focuses on clean HTML structure, semantic markup, basic SEO, and res
 
 ## 🚀 Live Preview
 
-👉 https://haithamabudraz.github.io/single-page-cv
+👉 [https://haithamabudraz.github.io/Single-Page-CV-Project](https://haithamabudraz.github.io/Single-Page-CV-Project)
 
 ---
 
